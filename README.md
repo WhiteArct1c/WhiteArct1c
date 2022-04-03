@@ -5,15 +5,15 @@
 
 
 <!--PROFILE INFO-->
-- 💻 IT student on FATEC MC - Brazil
+### - 💻 IT student on FATEC MC - Brazil
 
-- ⚙️ I'm currently working on improving my dev skills!
+### - ⚙️ I'm currently working on improving my dev skills!
 
-- 📚 Studying JAVA | Python | PostegreSQL
+### - 📚 Studying JAVA | Python | PostegreSQL
 
 <br>
 
-- You can find me on:
+### - You can find me on:
 <p align="left" style="background:blue">
   <a href="https://twitter.com/whitearctic1" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
