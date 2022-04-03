@@ -1,7 +1,7 @@
 <!--TITLE-->
 <h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Rodrigues!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WhiteArct1c&color=blue" alt="Profile views" /> </p>
-<img align="right" src="https://i.picasion.com/pic92/8d86492b0282ca6b25c80227e8186334.gif" width="300px" height="276px" border="0"/>
+<img align="right" src="https://i.picasion.com/pic92/8d86492b0282ca6b25c80227e8186334.gif" width="200px" height="176px" border="0"/>
 
 
 <!--PROFILE INFO-->
