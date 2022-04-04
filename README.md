@@ -57,5 +57,5 @@
 
 <br/>
 
-> * <h1> What I cannot create, I do not understand.</h1> 
+> <h1> What I cannot create, I do not understand.</h1> 
   _Richard Feynman_
