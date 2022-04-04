@@ -1,19 +1,20 @@
 <!--TITLE-->
-<h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Rodrigues!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WhiteArct1c&color=blue&style=plastic" alt="Profile views" /> </p>
-<img align="right" src="https://i.picasion.com/pic92/8d86492b0282ca6b25c80227e8186334.gif" width="300px" height="276px" border="0"/>
+# <h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Rodrigues!</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=WhiteArct1c&color=blue&style=for-the-badge" alt="Profile views" /></p>
+<img align="right" src="https://i.picasion.com/pic92/8d86492b0282ca6b25c80227e8186334.gif" width="300px" height="276px" border="1"/>
 
+<br/>
 
 <!--PROFILE INFO-->
 ### - 💻 IT student on FATEC MC - Brazil
 
-### - ⚙️ I'm currently working on improving my dev skills!
+### - ⚙️ I'm currently working to improve my dev skills!
 
 ### - 📚 Studying JAVA | Python | PostegreSQL
 
-<br>
 
-### - You can find me on:
+
+### - 📱 You can find me on:
 <p align="left" style="background:blue">
   <a href="https://twitter.com/whitearctic1" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
@@ -30,6 +31,7 @@
 </p>
 
 <br>
+<br>
 
 <!--TECH STACK-->
 ## 🛠 &nbsp;Tech Stack
@@ -42,7 +44,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/WhiteArct1c">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteArct1c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteArct1c&layout=compact&langs_count=7&theme=tokyonight"/>
