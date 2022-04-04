@@ -35,13 +35,14 @@
 
 <!--TECH STACK-->
 ## 🛠 &nbsp;Tech Stack
-<img align="center" alt="WhiteArct1c-Java" height="50" width="60" 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;
-<img align="center" alt="WhiteArct1c-Python" height="50" width="60" 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">&nbsp;
-<img align="center" alt="WhiteArct1c-PSQL" height="50" width="60" 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp;
-
+<div align="center">
+  <img align="center" alt="WhiteArct1c-Java" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Python" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-PSQL" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp;
+</div>
 <br>
 
 <div align="center">
