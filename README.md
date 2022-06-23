@@ -1,6 +1,6 @@
 <!--TITLE-->
-# <h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Rodrigues!</h1>
-<p align="left">&#xF44B</p>
+# <h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">, I'm Matheus Rodrigues!</h1>
+<p align="left"></p>
 
 
 <br/>
