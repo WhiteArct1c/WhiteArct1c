@@ -1,6 +1,6 @@
 <!--TITLE-->
 # <h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Rodrigues!</h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=WhiteArct1c&color=blue&style=for-the-badge" alt="Profile views" /></p>
+<p align="left">&#xF44B</p>
 
 
 <br/>
