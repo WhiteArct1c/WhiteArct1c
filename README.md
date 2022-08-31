@@ -38,6 +38,10 @@
 <div align="center">
   <img align="center" alt="WhiteArct1c-Java" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Html" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-plain.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Css" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-plain.svg">&nbsp;  
   <img align="center" alt="WhiteArct1c-Python" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-PSQL" height="50" width="60" 
