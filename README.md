@@ -10,9 +10,6 @@
 
 ### - ⚙️ I'm currently working to improve my dev skills!
 
-### - 📚 Studying JAVA | Python | PostegreSQL
-
-
 
 ### - 📱 You can find me on:
 <p align="left" style="background:blue">
