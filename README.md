@@ -1,17 +1,16 @@
 <!--TITLE-->
-# <h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">, I'm Matheus Rodrigues!</h1>
-<p align="left"></p>
-
-
+# <h1 align="left">Olá! &nbsp;<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">&nbsp;Seja bem-vindo!</h1>
 <br/>
 
 <!--PROFILE INFO-->
-### - 💻 IT student on FATEC MC - Brazil
+## :book: Sobre mim
 
-### - ⚙️ I'm currently working to improve my dev skills!
+### - :man_technologist: Desenvolvedor Front-End em formação!
+### - 💻 Estudante de Análise e Desenvolvimento de Sistemas
+### - ⚙️ Sempre buscando por mais conhecimento e desenvolvimento pessoal e profissional!
 
 
-### - 📱 You can find me on:
+### - 📱 Você pode me achar por aqui:
 <p align="left" style="background:blue">
   <a href="https://twitter.com/whitearctic1" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
@@ -32,7 +31,18 @@
 
 <!--TECH STACK-->
 ## 🛠 &nbsp;Tech Stack
+
 <div align="center">
+  <img align="center" alt="WhiteArct1c-Javascript" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Typescript" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Github" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Git" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-JiraSoftware" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-Java" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-Html" height="50" width="60" 
@@ -44,11 +54,14 @@
 </div>
 <br>
 
+## :dart: Stats
+
 <div align="center">
   <a href="https://github.com/WhiteArct1c">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteArct1c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteArct1c&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 
 <div align="center">
