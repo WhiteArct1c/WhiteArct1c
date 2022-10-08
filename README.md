@@ -1,16 +1,16 @@
 <!--TITLE-->
-# <h1 align="left">Olá! &nbsp;<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">&nbsp;Seja bem-vindo!</h1>
+# <h1 align="left">Hi! &nbsp;<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">&nbsp;I'm Matheus Rodrigues!</h1>
 <br/>
 
 <!--PROFILE INFO-->
-## :book: Sobre mim
+## :book: About me
 
-### - :man_technologist: Desenvolvedor Front-End em formação!
-### - 💻 Estudante de Análise e Desenvolvimento de Sistemas
-### - ⚙️ Sempre buscando por mais conhecimento e desenvolvimento pessoal e profissional!
+### - :man_technologist: Front-end Developer
+### - 💻 IT student at FATEC MC (Faculdade de Tecnologia de Mogi das Cruzes - Brazil)
+### - ⚙️ Always looking for personal and professional evolution, knowledge is never too much! 
 
 
-### - 📱 Você pode me achar por aqui:
+### - 📱 You can find me on:
 <p align="left" style="background:blue">
   <a href="https://twitter.com/whitearctic1" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
