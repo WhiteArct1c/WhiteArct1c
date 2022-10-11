@@ -5,7 +5,7 @@
 <!--PROFILE INFO-->
 ## :book: About me
 
-### - :man_technologist: Front-end Developer
+### - :man_technologist: Frontend Developer
 ### - 💻 IT student at FATEC MC (Faculdade de Tecnologia de Mogi das Cruzes - Brazil)
 ### - ⚙️ Always looking for personal and professional evolution, knowledge is never too much! 
 
