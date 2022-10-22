@@ -38,19 +38,21 @@
   <img align="center" alt="WhiteArct1c-Typescript" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-Github" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Git" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-JiraSoftware" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">&nbsp;
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-Java" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-Html" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-Css" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">&nbsp;  
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">&nbsp; 
   <img align="center" alt="WhiteArct1c-PSQL" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Github" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Git" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-JiraSoftware" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">&nbsp;
 </div>
 <br>
 
