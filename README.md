@@ -30,7 +30,7 @@
 <br>
 
 <!--TECH STACK-->
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack (Learning...)
 
 <div align="center">
   <img align="center" alt="WhiteArct1c-Javascript" height="50" width="60" 
