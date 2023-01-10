@@ -53,6 +53,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
   <img align="center" alt="WhiteArct1c-JiraSoftware" height="50" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">&nbsp;
+  <img align="center" alt="WhiteArct1c-Docker" height="50" width="60" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+          
 </div>
 <br>
 
