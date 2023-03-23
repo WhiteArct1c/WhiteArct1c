@@ -1,81 +1,60 @@
-<!--TITLE-->
-# <h1 align="left">Hi! &nbsp;<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">&nbsp;I'm Matheus Rodrigues!</h1>
-<br/>
+# WhiteArct1c 👨‍💻 ![Número de Seguidores](https://img.shields.io/github/followers/WhiteArct1c?style=social)
 
-<!--PROFILE INFO-->
-## :book: About me
+**Olá, me chamo Matheus Bispo e sou um desenvolvedor frontend apaixonado por tecnologia e sempre buscando novos desafios e aprendizados.**
 
-### - :man_technologist: Front-End Developer
-### - 💻 IT student at FATEC MC (Faculdade de Tecnologia de Mogi das Cruzes - Brazil)
-### - ⚙️ Always looking for personal and professional evolution, knowledge is never too much! 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
+## 💻 Tecnologias
 
-### - 📱 You can find me on:
-<p align="left" style="background:blue">
-  <a href="https://twitter.com/whitearctic1" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
-  </a>
-  <a href = "mailto:matrodrigues1576@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>  
-  <a href="https://linkedin.com/in/whitearct1c" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/_whitearctic_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</p> 
 
-<br>
-<br>
-
-<!--TECH STACK-->
-## 🛠 &nbsp;Tech Stack (Learning...)
-
-<div align="center">
-  <img align="center" alt="WhiteArct1c-Javascript" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Typescript" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Github" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Java" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Html" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Css" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">&nbsp; 
-  <img align="center" alt="WhiteArct1c-PSQL" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Github" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Git" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-JiraSoftware" height="50" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">&nbsp;
-  <img align="center" alt="WhiteArct1c-Docker" height="50" width="60" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
-          
-</div>
-<br>
-
-## :dart: Stats
-
-<div align="center">
-  <a href="https://github.com/WhiteArct1c">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteArct1c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteArct1c&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+## 🚀 Projetos Recentes
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+- [Snowflix](https://github.com/WhiteArct1c/snowflix) - Aplicação WEB em ReactJs similar ao Netflix e outros sites de streaming.
+- [Frontend Mentor Challenges](https://github.com/WhiteArct1c/FRONTEND-MENTOR-CHALLENGES) - Desafios concluídos ou em progresso do site FRONTEND MENTOR.
+- [Supplier System](https://github.com/WhiteArct1c/ProjetoES3-SistemaFornecedor) - Sistema acadêmico WEB usando Java e JSP para um sistema de forncedores com foco em utilização de padrões de projeto.
 
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-> <h1> What I cannot create, I do not understand.</h1> 
-  _Richard Feynman_
+
+## 📈 Estatísticas
+
+![Estatísticas do GitHub de WhiteArct1c](https://github-readme-stats.vercel.app/api?username=WhiteArct1c&show_icons=true&theme=radical)
+![Contribuições no GitHub de WhiteArct1c](https://github-readme-streak-stats.herokuapp.com/?user=WhiteArct1c&theme=radical)
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+## 📬 Contato
+
+[![LinkedIn Badge](https://img.shields.io/badge/-WhiteArct1c-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whitearct1c/)](https://www.linkedin.com/in/whitearct1c/)
+[![GitHub Badge](https://img.shields.io/badge/-WhiteArct1c-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/WhiteArct1c)](https://github.com/WhiteArct1c)
+
+
