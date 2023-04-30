@@ -2,8 +2,8 @@
 
 **Olá, me chamo Matheus Bispo e sou um desenvolvedor frontend apaixonado por tecnologia e sempre buscando novos desafios e aprendizados.**
 
-- 🧑‍🎓 Análise e desenvolvimento de sistemas (FATEC - MC) - Cursando
-- 🧑‍🎨 Design Gráfico (UNICSUL) - Concluído
+- 👨‍💻 Análise e desenvolvimento de sistemas (FATEC - MC) - Cursando
+- 🎨 Design Gráfico (UNICSUL) - Concluído
 
 &nbsp;
 
