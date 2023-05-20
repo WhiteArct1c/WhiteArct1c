@@ -1,6 +1,6 @@
 # WhiteArct1c 👨‍💻 ![Número de Seguidores](https://img.shields.io/github/followers/WhiteArct1c?style=social)
 
-**Olá, me chamo Matheus Bispo e sou um desenvolvedor frontend apaixonado por tecnologia e sempre buscando novos desafios e aprendizados.**
+**Olá, me chamo Matheus Bispo e sou um desenvolvedor fullstack apaixonado por tecnologia e sempre buscando novos desafios e aprendizados.**
 
 - 👨‍💻 Análise e desenvolvimento de sistemas (FATEC - MC) - Cursando
 - 🎨 Design Gráfico (UNICSUL) - Concluído
