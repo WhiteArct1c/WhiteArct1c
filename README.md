@@ -1,15 +1,15 @@
-# WhiteArct1c 👨‍💻 ![Número de Seguidores](https://img.shields.io/github/followers/WhiteArct1c?style=social)
+# WhiteArct1c 👨‍💻 ![Followers](https://img.shields.io/github/followers/WhiteArct1c?style=social)
 
-**Olá, me chamo Matheus Bispo e sou um desenvolvedor fullstack apaixonado por tecnologia e sempre buscando novos desafios e aprendizados.**
+**Hello, my name is Matheus Bispo, and I am a passionate full-stack developer, always seeking new challenges and learning opportunities.**
 
-- 👨‍💻 Análise e desenvolvimento de sistemas (FATEC - MC) - Cursando
-- 🎨 Design Gráfico (UNICSUL) - Concluído
+- 👨‍💻 Systems Analysis and Development (FATEC - MC) - In progress
+- 🎨 Graphic Design (UNICSUL) - Completed
 
 &nbsp;
 
-## 💻 Tecnologias
+## 💻 Technologies
 
-### - Frameworks e Ferramentas (IDE's, DevOps, etc)
+### - Frameworks and Tools (IDEs, DevOps, etc)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -24,10 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="NodeJs" width="40" height="40"/>
 </p>
 
 
-### - Linguagens (Programação, Marcação, Estilização, etc)
+### - Languages (Programming, Markup, Styling, etc)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -43,7 +45,7 @@
 </p>
 
 
-### - Controle de repositórios e versionamento
+### - Repository and Version Control
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -54,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" alt="TortoiseGit" width="40" height="40"/>
 </p>
 
-### - Gerenciamento de projetos
+### - Project Management
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -69,25 +71,23 @@
 &nbsp;&nbsp;
 
 
-## 🚀 Projetos Recentes
+## 🚀 Recent Projects
 
-- [Snowflix](https://github.com/WhiteArct1c/snowflix) - Aplicação WEB em ReactJs similar ao Netflix e outros sites de streaming.
-- [Frontend Mentor Challenges](https://github.com/WhiteArct1c/FRONTEND-MENTOR-CHALLENGES) - Desafios concluídos ou em progresso do site FRONTEND MENTOR.
-- [Supplier System](https://github.com/WhiteArct1c/ProjetoES3-SistemaFornecedor) - Sistema acadêmico WEB usando Java e JSP para um sistema de forncedores com foco em utilização de padrões de projeto.
-
-&nbsp;&nbsp;
-
-
-## 📈 Estatísticas
-  ![Estatísticas do GitHub de WhiteArct1c](https://github-readme-stats.vercel.app/api?username=WhiteArct1c&show_icons=true&theme=radical)
-  ![Contribuições no GitHub de WhiteArct1c](https://github-readme-streak-stats.herokuapp.com/?user=WhiteArct1c&theme=radical)
-
+- [Snowflix](https://github.com/WhiteArct1c/snowflix) - ReactJs web application similar to Netflix and other streaming sites.
+- [Frontend Mentor Challenges](https://github.com/WhiteArct1c/FRONTEND-MENTOR-CHALLENGES) - Completed or in-progress challenges from the FRONTEND MENTOR site.
+- [Supplier System](https://github.com/WhiteArct1c/ProjetoES3-SistemaFornecedor) - Web-based academic system using Java and JSP for a supplier system focusing on design pattern usage.
 
 &nbsp;&nbsp;
 
-## 📬 Contato
+
+## 📈 Statistics
+  ![WhiteArct1c's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteArct1c&show_icons=true&theme=radical)
+  ![WhiteArct1c's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=WhiteArct1c&theme=radical)
+
+
+&nbsp;&nbsp;
+
+## 📬 Contact
 
 [![LinkedIn Badge](https://img.shields.io/badge/-WhiteArct1c-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whitearct1c/)](https://www.linkedin.com/in/whitearct1c/)
 [![GitHub Badge](https://img.shields.io/badge/-WhiteArct1c-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/WhiteArct1c)](https://github.com/WhiteArct1c)
-
-
