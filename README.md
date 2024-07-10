@@ -1,7 +1,3 @@
-<div align="left">
-  
-</div>
-
 <h1 align="left">
   Hi 👋! I'm Matheus Bispo!
   &nbsp;
