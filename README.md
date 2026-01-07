@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=WhiteArct1c.WhiteArct1c&left_text=Profile%20views"  />
   <img src="https://www.codewars.com/users/WhiteArct1c/badges/micro" alt="codewars stats"/>
 </h1>
-<p align="left">Fullstack developer, Coffee lover, Java and Spring fan, Performance curious. Currently working with Java, Spring, HTML, CSS, JSP, Javascript and Oracle PL/SQL.</p>
+<p align="left">Fullstack developer & DevOps Engineer, Coffee lover, Java and Spring fan, Performance curious. Currently working with Java, Spring, HTML, CSS, JSP, Javascript, Oracle PL/SQL, Terraform, Github Actions, Azure and AWS cloud providers, etc.</p>
 
 &nbsp;
 
