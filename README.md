@@ -7,7 +7,7 @@
 
 <p align="left">
   Fullstack developer & DevOps Engineer, Coffee lover, Java and Spring fan, Performance curious.<br>
-  Currently working with Java, Spring, HTML, CSS, JSP, Javascript, Oracle PL/SQL, Terraform, Github Actions, Azure and AWS cloud providers, etc.
+  Currently working with Java, Spring, HTML, CSS, JSP, Javascript, Oracle PL/SQL, Terraform, Github Actions, Azure and AWS cloud providers, Docker, K8s, etc.
 </p>
 
 <br>
